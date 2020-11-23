@@ -1,0 +1,3 @@
+# 需要忽略eslint校验的文件
+/node_modules/
+# /app.js
